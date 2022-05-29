@@ -15,3 +15,11 @@ In Home.module.css, the class name will not have a name collision with the same 
 Chapter 52
 
 yarn add sass
+
+_colors.scss
+
+======================================================================
+
+Chapter 53
+
+yarn add styled-components
